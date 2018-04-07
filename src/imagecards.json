@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Pacey Witter",
+        "image": "http://images4.fanpop.com/image/photos/20300000/Pacey-pacey-witter-20381613-720-540.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Joey Potter",
+        "image": "https://i.pinimg.com/originals/e9/ee/01/e9ee011f688c6933b07bc7f06bce401c.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dawson Leery",
+        "image": "http://foreveryoungadult.com/_uploads/images-new/50058/cry_face_header__span.png"
+    },
+    {
+        "id": 4,
+        "name": "Jen Lindley",
+        "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-Dawsons-Creek-Michelle-Williams.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Andie McPhee",
+        "image": "https://vignette.wikia.nocookie.net/dawsonscreek/images/8/84/207andiepromo.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Jack McPhee",
+        "image": "https://images.askmen.com/top_10/celebrity/top-10-best-gay-tv-characters_412395.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Audrey Liddell",
+        "image": "https://alchetron.com/cdn/audrey-liddell-6836b67d-230b-4661-ac79-cf09af409a4-resize-750.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Mitch Leery",
+        "image": "https://90sflashback.files.wordpress.com/2012/04/cr.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Evelyn Ryan",
+        "image": "https://90sflashback.files.wordpress.com/2011/04/grams.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Bessie Potter",
+        "image": "https://vignette.wikia.nocookie.net/dawsonscreek/images/e/e5/Babybessie.jpeg/revision/latest/zoom-crop/width/240/height/240?cb=20151128173203"
+    },
+    {
+        "id": 11,
+        "name": "Gale Leery",
+        "image":  "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fimages.hellogiggles.com%2Fuploads%2F2018%2F03%2F30011721%2Fdawson-leery-parents.jpg&w=700&q=85"
+    },
+    {
+        "id": 12,
+        "name": "Charlie Todd",
+        "image": "https://i.pinimg.com/originals/df/2f/84/df2f844bcf1cd0333c0142e434f9f916.jpg"
+    }
+]
